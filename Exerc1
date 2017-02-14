@@ -1,6 +1,91 @@
-<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><element><id>UMLDeployment</id><coordinates><x>230</x><y>50</y><w>380</w><h>200</h></coordinates><panel_attributes>&lt;&lt;Computador Cliente&gt;&gt;</panel_attributes><additional_attributes/></element><element><id>UMLDeployment</id><coordinates><x>290</x><y>100</y><w>250</w><h>110</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
-Windows 7 ou superior</panel_attributes><additional_attributes/></element><element><id>UMLGeneric</id><coordinates><x>340</x><y>150</y><w>140</w><h>40</h></coordinates><panel_attributes>&lt;&lt;web browser&gt;&gt;
-Chrome 37 ou superior</panel_attributes><additional_attributes/></element><element><id>UMLDeployment</id><coordinates><x>230</x><y>270</y><w>380</w><h>200</h></coordinates><panel_attributes>&lt;&lt;computador servidor&gt;&gt;
-</panel_attributes><additional_attributes/></element><element><id>UMLDeployment</id><coordinates><x>290</x><y>320</y><w>250</w><h>120</h></coordinates><panel_attributes>&lt;&lt;servidor de aplicações&gt;&gt;
-Tomcat 6 ou superior</panel_attributes><additional_attributes/></element><element><id>UMLGeneric</id><coordinates><x>340</x><y>380</y><w>140</w><h>40</h></coordinates><panel_attributes>&lt;&lt;aplicação Java Web&gt;&gt;
-Loja Virtual</panel_attributes><additional_attributes/></element><element><id>Relation</id><coordinates><x>340</x><y>180</y><w>50</w><h>170</h></coordinates><panel_attributes>TCP</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element></diagram>
+
+
+<diagram program="umletino" version="14.2">
+   <zoom_level>10</zoom_level>
+   <element>
+      <id>UMLDeployment</id>
+      <coordinates>
+         <x>230</x>
+         <y>50</y>
+         <w>380</w>
+         <h>200</h>
+      </coordinates>
+      <panel_attributes>&lt;&lt;Computador Cliente&gt;&gt;</panel_attributes>
+      <additional_attributes/>
+   </element>
+   <element>
+      <id>UMLDeployment</id>
+      <coordinates>
+         <x>290</x>
+         <y>100</y>
+         <w>250</w>
+         <h>110</h>
+      </coordinates>
+      <panel_attributes>&lt;&lt;SO&gt;&gt;
+         Windows 7 ou superior
+      </panel_attributes>
+      <additional_attributes/>
+   </element>
+   <element>
+      <id>UMLGeneric</id>
+      <coordinates>
+         <x>340</x>
+         <y>150</y>
+         <w>140</w>
+         <h>40</h>
+      </coordinates>
+      <panel_attributes>&lt;&lt;web browser&gt;&gt;
+         Chrome 37 ou superior
+      </panel_attributes>
+      <additional_attributes/>
+   </element>
+   <element>
+      <id>UMLDeployment</id>
+      <coordinates>
+         <x>230</x>
+         <y>270</y>
+         <w>380</w>
+         <h>200</h>
+      </coordinates>
+      <panel_attributes>&lt;&lt;computador servidor&gt;&gt;</panel_attributes>
+      <additional_attributes/>
+   </element>
+   <element>
+      <id>UMLDeployment</id>
+      <coordinates>
+         <x>290</x>
+         <y>320</y>
+         <w>250</w>
+         <h>120</h>
+      </coordinates>
+      <panel_attributes>&lt;&lt;servidor de aplicações&gt;&gt;
+         Tomcat 6 ou superior
+      </panel_attributes>
+      <additional_attributes/>
+   </element>
+   <element>
+      <id>UMLGeneric</id>
+      <coordinates>
+         <x>340</x>
+         <y>380</y>
+         <w>140</w>
+         <h>40</h>
+      </coordinates>
+      <panel_attributes>&lt;&lt;aplicação Java Web&gt;&gt;
+         Loja Virtual
+      </panel_attributes>
+      <additional_attributes/>
+   </element>
+   <element>
+      <id>Relation</id>
+      <coordinates>
+         <x>340</x>
+         <y>180</y>
+         <w>50</w>
+         <h>170</h>
+      </coordinates>
+      <panel_attributes>TCP</panel_attributes>
+      <additional_attributes>10;10;10;150</additional_attributes>
+   </element>
+</diagram>
+
