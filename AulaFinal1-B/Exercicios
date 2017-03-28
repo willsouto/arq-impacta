@@ -1,0 +1,56 @@
+Exercicio 1:
+Para atender os objetivos da área de negócios, usuário e infraestrutura de TI.
+
+
+Exericio 2:
+Categoria Estilos de arquitetura
+
+1 - Comunicação(Communication)
+Service-oriented architecture (SOA), Message Bus
+
+2 - Implantação(Deployment)
+Client-server, N-Tier, 3-Tier
+
+3 - Domínio (Domain) 
+Domain Driven Design
+
+4 - Estrutura (Structure)
+Component­based, orientado a objetos, arquitetura
+em camadas (layers)
+
+
+Exericio 3:
+Netflix e DevMidia
+Cliente acessa solução(alocado em servidor WEB) via navegador.O Acesso centralizado aos dados facilita a administração e segurança.
+ 
+
+Exercicio 4:
+->Arquivo<-
+
+
+Exercicio 5:
+A diferença entre a organização em layers e a organização em múltiplos tiers é que a ideia da organização em múltiplos tiers é semelhante ao estilo em camadas, mas cada segmento 
+
+fica em um estágio (tier) localizado em um computador fisicamente separado.
+
+Exercicio 6:
+->Arquivo<-
+
+
+Exercicio 7:
+1 - segurança
+2 - especiﬁcar quais etapas do processo de desenvolvimento devem usar tais metodologias.
+
+
+Exercicio 8:
+Sistema de CRM
+
+
+Exercicio 9:
+Consiste em uma implementação teste de uma pequena parte da solução para fazer uma análise de viabilidade, uma comparação entre potenciais designs ou para fazer uma estimativa 
+
+inicial.
+
+
+Exercicio 10:
+Performance, segurança, confiabilidade, usabilidade e escalabilidade.
