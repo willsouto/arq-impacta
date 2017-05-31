@@ -20,4 +20,4 @@ ajudar aidentificar problemas e o que pode ser melhorado.<br/>
 https://github.com/willsouto/arq-impacta/blob/master/09.05/EAPSistemaChat.EAP<br/>
 
 6-
-https://github.com/willsouto/arq-impacta/tree/master/30.05
+https://github.com/willsouto/arq-impacta/blob/master/30.05/ExercRevisao.EAP
